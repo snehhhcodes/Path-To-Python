@@ -24,8 +24,8 @@ This resource provides a structured way to learn Python at your own pace.
 🚧 – Coming Soon  
 
 ## Each Folder Contains 📂
-**Notes** → Daily notes related to the topic learned
-**Code** → Topic-related explanations, questions, examples, solutions, and mini projects (if any)  
+**Notes** → Daily notes related to the topic learned<br>
+**Code** → Topic-related explanations, questions, examples, solutions, and mini projects (if any)<br>
 **README.md** → A summary of what was covered, questions practiced, and key takeaways  
 
 ## Resources Used 📚
