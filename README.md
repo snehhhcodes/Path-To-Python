@@ -21,8 +21,8 @@ Anyone can explore, follow along, and use it as a beginner-friendly learning res
 🎯 – Completed  
 🚧 – Coming Soon  
 
-## 🗁 Each Folder Contains  
+## Each Folder Contains 📂
 
-📂 **Notes/** → Daily notes related to the topic learned  
-📂 **Code/** → Topic-related explanations, questions, examples, solutions, and mini projects (if any)  
-📂 **README.md** → A summary of what was covered, questions practiced, and key takeaways  
+**Notes/** → Daily notes related to the topic learned  
+**Code/** → Topic-related explanations, questions, examples, solutions, and mini projects (if any)  
+**README.md** → A summary of what was covered, questions practiced, and key takeaways  
