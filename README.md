@@ -6,7 +6,7 @@ This repository is designed for **anyone** aiming to build a solid Python founda
 
 Anyone can explore, follow along, and use it as a beginner-friendly learning resource at their own pace! 🎯     
 
-## 📅 Daily Progress Tracker
+## Daily Progress Tracker 📅
 | Day  | Topic Covered | Folder Link |
 |------|--------------|-------------|
 | Day 1 | ... | [📂 Day 1](#) |
