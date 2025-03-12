@@ -8,14 +8,19 @@ Anyone can explore, follow along, and use it as a beginner-friendly learning res
 
 ## Daily Progress Tracker 📅
 <div align="center">
-| Day   | Date       | Topic Covered | Folder Link   | Status  |
-|-------|------------|---------------|---------------|-------------|
-| **1** | DD-MM-YYYY | ...           | [📂 Day 1](#) | ✅ Completed | 
-| **2** | DD-MM-YYYY | ...           | [📂 Day 2](#) | 🔄 In Progress |
-| **3** | DD-MM-YYYY | ...           | [📂 Day 3](#) | ⏳ Upcoming |
-| ...   | ...        | ...           | ...           | ...     |
 
-</div> 
+| **Day**  | **Date**       | **Topic Covered**           | **Folder Link** | **Status**  |
+|----------|--------------|-------------------------|-------------|---------|
+| Day 1    | YYYY-MM-DD   | Introduction & Setup     | [📂 Day 1](#) | ✅ Completed |
+| Day 2    | YYYY-MM-DD   | Variables & Data Types   | [📂 Day 2](#) | 🔄 In Progress |
+| Day 3    | YYYY-MM-DD   | Conditional Statements   | [📂 Day 3](#) | ⏳ Upcoming |
+| ...      | ...          | ...                     | ...         | ...     |
 
+</div>
+
+### **Legend:**  
+✅ **Completed** – Fully covered & documented  
+🔄 **In Progress** – Currently working on it  
+⏳ **Upcoming** – Yet to be started  
 
 
