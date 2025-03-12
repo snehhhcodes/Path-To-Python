@@ -6,7 +6,7 @@ This repository is designed for **anyone** looking to build a strong Python foun
 
 I am **documenting my daily progress**, including **notes, code, projects, and problem-solving exercises**, covering  topics ranging from Python **basics to advanced concepts** like DSA, OOP, web development, and more.  
 
-This resource provides a structured way to learn Python at your own pace.     
+This resource offers a structured approach to learning Python at your own pace.     
 
 ## Daily Progress Tracker 📅
 <div align="center">
