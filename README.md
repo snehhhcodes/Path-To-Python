@@ -8,11 +8,13 @@ Anyone can explore, follow along, and use it as a beginner-friendly learning res
 
 ## Daily Progress Tracker 📅
 <div align="center">
+  
 | **Day** | **Date**       | **Topic Covered**           | **Folder Link**     | **Status**  |
 |---------|----------------|-----------------------------|---------------------|-------------|
 | 1       | DD-MM-YYYY     | ...                         | 📂 [Day 1](#)       | 🎯          |
 | 2       | DD-MM-YYYY     | ...                         | 📂 [Day 2](#)       | 🚧          |
 | ...     | ...            | ...                         | ...                 | ...         |
+
 </div>
 
 ### **Legend:**  
