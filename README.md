@@ -8,12 +8,11 @@ Anyone can explore, follow along, and use it as a beginner-friendly learning res
 
 ## Daily Progress Tracker 📅
 <div align="center">
-| **Day**  | **Date**       | **Topic Covered**           | **Folder Link** | **Status**  |
-|----------|--------------|-------------------------|-------------|---------|
-| 1    | DD-MM-YYYY   | ...  | [📎 Day 1](#) | 🎯 |
-| 2    | DD-MM-YYYY  | ...   | [📎 Day 2](#) | 🚧 |
-| ...      | ...     | ...   | ...            | ... |
-
+| **Day** | **Date**       | **Topic Covered**           | **Folder Link**     | **Status**  |
+|---------|----------------|-----------------------------|---------------------|-------------|
+| 1       | DD-MM-YYYY     | ...                         | 📂 [Day 1](#)       | 🎯          |
+| 2       | DD-MM-YYYY     | ...                         | 📂 [Day 2](#)       | 🚧          |
+| ...     | ...            | ...                         | ...                 | ...         |
 </div>
 
 ### **Legend:**  
@@ -46,4 +45,4 @@ Anyone can explore, follow along, and use it as a beginner-friendly learning res
 [GitHub](https://github.com/snehhhcodes) | [LinkedIn](https://www.linkedin.com/in/)  
 
 If you're also learning Python, **drop a star** ⭐ and join the journey!
-
+Code On! 🔥
