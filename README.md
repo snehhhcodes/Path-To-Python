@@ -2,7 +2,7 @@
 
 ## A structured roadmap to learning and mastering Python! 🐍
 
-This repository is designed for **anyone** looking to build a strong Python foundation.—whether you're a complete beginner or seeking to expand your knowledge.
+This repository is designed for **anyone** looking to build a strong Python foundation—whether you're a complete beginner or seeking to expand your knowledge.
 
 I am **documenting my daily progress**, including **notes, code, projects, and problem-solving exercises**, covering  topics ranging from Python **basics to advanced concepts** like DSA, OOP, web development, and more.  
 
