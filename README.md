@@ -11,11 +11,11 @@ This resource offers a structured approach to learning Python at your own pace.
 ## Daily Progress Tracker 📅
 <div align="center">
   
-| **Day** | **Date**       | **Topic Covered**           | **Folder Link**     | **Status**  |
-|---------|----------------|-----------------------------|---------------------|-------------|
-| 1       | DD-MM-YYYY     | ...                         | 📂 [Day 1](#)       | 🎯          |
-| 2       | DD-MM-YYYY     | ...                         | 📂 [Day 2](#)       | 🚧          |
-| ...     | ...            | ...                         | ...                 | ...         |
+| **Day** | **Topic Covered**           | **Folder Link**     | **Status**  |
+|---------|-----------------------------|---------------------|-------------|
+| 1       | ...                         | 📂 [Day 1](#)       | 🎯          |
+| 2       |  ...                        | 📂 [Day 2](#)       | 🚧          |
+| ...     | ...                         | ...                 | ...         |
 
 </div>
 
