@@ -20,10 +20,10 @@ It's an organized record of all the knowledge I'm gaining, created gradually and
 </div>  
 
 ## Each Folder Contains 📂
-**Notes** → Daily notes related to the topic learned<br>
-**Code** → Topic-related explanations, questions, examples, solutions, and mini projects (if any)<br>
-**README.md** → A summary of what was covered, questions practiced, and key takeaways  
-
+ **Notes** → Key concepts and theory breakdown  
+ **Code** → Syntax examples, practice questions, and exercises  
+ **README.md** → Summary of concepts learned and key takeaways 
+ 
 ## Resources Used 📚
 - **Websites**  
   - [W3Schools](https://www.w3schools.com/)  
