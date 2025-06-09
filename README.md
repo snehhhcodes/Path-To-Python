@@ -1,6 +1,6 @@
-<h1 align="left"> Path To Python <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> </h1>
+<h1 align="left"> Path To Python </h1>
 
-## A structured roadmap to learning and mastering Python! 🐍
+## A structured roadmap to learning and mastering Python! 
 
 This repository is **my personal learning space**, created to track my entire Python journey in one place.
 
