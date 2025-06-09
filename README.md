@@ -1,4 +1,4 @@
-<h1 align="left"> Path To Python </h1>
+<h1 align="left"> Path To Python 🎯 </h1>
 
 ## A structured roadmap to learning and mastering Python! 
 
