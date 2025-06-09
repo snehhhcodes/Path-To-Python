@@ -35,14 +35,13 @@ It's an organized record of all the knowledge I'm gaining, created gradually and
   - [LeetCode](https://leetcode.com/)  
 
  ## How to Use This Repo 🛠️
-- **Check the "Daily Progress Tracker"** above to follow my structured learning path.
-- **Click on folder links** to view notes, code, and explanations for each day.  
-- Use this repo as a **reference** or **inspiration** if you're learning Python too.
-- **Follow along at your own pace** — start from **Day 1**, or jump into any topic
+- Browse the **Daily Tracker** to follow the learning path.
+- Open folders to access **notes, code snippets, and examples**.
+- Use this as a **reference log** or an **inspiration for your own journey**  
 - **Every line of code is progress—just keep going!**
 
-## Follow Me On! 🌐  
+## Connect With Me! 🌐  
 [GitHub](https://github.com/snehhhcodes) | [LinkedIn](https://www.linkedin.com/in/)  
 
-Also on your Python path? Smash that ⭐ and let’s import progress together!
+Also on your Python path? Smash that ⭐ and let’s import progress together!<br>
 Code On! 🔥
